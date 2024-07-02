@@ -1,2 +1,2 @@
 # Steam User Behaviour Analysis
-Analysis and prediction of user behaviour &amp; retention on Steam and recommending games based on their past behaviour.
+This project involves analyzing the Steam 200k dataset to uncover insights about user behavior, game popularity, and other key metrics. Using various data science and machine learning techniques, the analysis aims to provide a comprehensive understanding of the patterns and trends within the Steam gaming community. It also involves building predictive models to predict total game playtime.
