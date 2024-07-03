@@ -25,4 +25,4 @@ The dataset is taken from the Steam 200k Video Games Dataset from <a href="https
 - `models/`: model outputs.
 
 ## Future work
-currently working on part 2 - implementing a collaborative filtering approach for recommending games on Steam platform based on user behavior for this dataset
+currently working on part 2 - implementing a collaborative filtering approach for recommending games on Steam platform based on user behavior for this dataset & maybe even a streamlit dashboard?
